@@ -31,13 +31,9 @@ improvements:
     * consume unread messages from REST api, queue responses
       * if more than 5 messages to send, ABORT w/email
   * log to backing store for all messages sent/received w/ pictures
+  * BACKING STORE! WEBAPP!
 
-user stream loop:
-
-  if 
-
-
-if anything ever goes wrong, email me instead
+if anything ever goes horribly wrong, email me instead
 
 
 '''
